@@ -1,0 +1,14 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open fonte01.html",
+            "file": "c:\\Users\\muril\\OneDrive\\Documentos\\Estudos\\html-css\\exercicios\\ex0015\\fonte01.html"
+        }
+    ]
+}
